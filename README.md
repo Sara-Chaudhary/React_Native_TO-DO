@@ -26,9 +26,3 @@ The project follows a "Separation of Concerns" directory structure to ensure mai
 * **app/components/TaskItem.tsx**: Highly optimized, reusable row component with swipe logic.
 * **app/components/EditModal.tsx**: Abstracted modal component for clean state handling.
 * **app/_layout.tsx**: Root provider for gesture handling and navigation configuration.
-
-## 📥 Installation & Setup
-
-1. **Clone the repo**:  
-   ```bash
-   git clone <your-repo-link>
